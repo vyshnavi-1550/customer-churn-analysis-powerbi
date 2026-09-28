@@ -69,13 +69,13 @@ The dashboard includes:
 |------|-------------|
 | `Customer_Churn_Analysis_Dashboard.pbix` | Power BI dashboard |
 | `Customer_Churn_Dataset.csv` | Customer churn dataset |
-| `Customer_Churn_Analysis_Dashboard.png` | Dashboard preview |
+| `Customer Churn Analysis Dashboard Screenshot.jpeg` | Dashboard preview |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Customer Churn Analysis Dashboard](Customer_Churn_Analysis_Dashboard.png)
+![Customer Churn Analysis Dashboard Screenshot.jpeg](Customer Churn Analysis Dashboard Screenshot.jpeg)
 
 ---
 
