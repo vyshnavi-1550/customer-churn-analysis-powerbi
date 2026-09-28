@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project presents an interactive **Power BI dashboard** designed to analyze customer churn patterns and understand factors related to customer retention.
+This project presents an interactive **Power BI dashboard** for analyzing customer churn patterns and understanding customer retention.
 
-The dashboard provides visual insights into customer churn based on contract type, tenure, gender, partner status, dependents, internet service, and payment method.
+The dashboard provides insights into customer behavior based on contract type, tenure, gender, partner status, dependents, internet service, and payment method.
 
 ---
 
@@ -15,26 +15,24 @@ The dashboard provides visual insights into customer churn based on contract typ
 - Analyze customer tenure.
 - Compare customer distribution by gender.
 - Analyze partner and dependent status.
-- Explore customer segments using interactive filters.
-- Present customer churn insights through an interactive Power BI dashboard.
+- Explore different customer segments using interactive filters.
+- Present customer churn insights using Power BI visualizations.
 
 ---
 
 ## 📊 Dashboard Features
 
-The dashboard includes:
-
-### 🔹 KPI
+### KPI
 - Total Customers
 
-### 🔹 Interactive Slicers
+### Interactive Slicers
 - Churn
 - Gender
 - Contract
 - Internet Service
 - Payment Method
 
-### 🔹 Visualizations
+### Visualizations
 - Customer Churn Distribution
 - Contract Type vs Customer Churn
 - Customer Tenure Analysis
@@ -48,8 +46,8 @@ The dashboard includes:
 
 - Month-to-month contract customers show higher churn compared with longer-term contracts.
 - Long-term contracts show lower customer churn compared with month-to-month contracts.
-- Customer tenure provides useful information for understanding customer retention patterns.
-- Customer churn can be explored across different customer segments using the interactive slicers.
+- Customer tenure helps analyze customer retention patterns.
+- Customer churn can be explored across different customer segments using interactive slicers.
 - Partner and dependent status can be compared with customer churn behavior.
 
 ---
@@ -59,7 +57,7 @@ The dashboard includes:
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
-- **Microsoft Excel / CSV**
+- **CSV Dataset**
 
 ---
 
@@ -67,23 +65,21 @@ The dashboard includes:
 
 | File | Description |
 |------|-------------|
-| `Customer_Churn_Analysis_Dashboard.pbix` | Power BI dashboard |
+| `Customer Churn Analysis Dashboard.pbix` | Power BI dashboard |
 | `Customer_Churn_Dataset.csv` | Customer churn dataset |
-| `Customer Churn Analysis Dashboard Screenshot.jpeg` | Dashboard preview |
+| `Customer Churn Analysis Dashboard.png` | Dashboard screenshot |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Customer Churn Analysis Dashboard Screenshot.jpeg](Customer Churn Analysis Dashboard Screenshot.jpeg)
+![Customer Churn Analysis Dashboard](Customer%20Churn%20Analysis%20Dashboard.png)
 
 ---
 
-## 📈 Dashboard Layout
+## 📈 Dashboard Components
 
-The dashboard contains:
-
-**Top Section**
+### Top Section
 - Total Customers
 - Churn
 - Gender
@@ -91,13 +87,13 @@ The dashboard contains:
 - Internet Service
 - Payment Method
 
-**Middle Section**
+### Middle Section
 - Customer Churn Distribution
 - Contract Type vs Customer Churn
 - Customer Tenure Analysis
 - Partner Status Distribution
 
-**Bottom Section**
+### Bottom Section
 - Customer Distribution by Gender
 - Dependents vs Customer Churn
 
@@ -105,10 +101,10 @@ The dashboard contains:
 
 ## 🚀 How to Use
 
-1. Download or clone this repository.
-2. Open `Customer_Churn_Analysis_Dashboard.pbix` using **Power BI Desktop**.
-3. Use the slicers to filter the dashboard.
-4. Explore the different visualizations to analyze customer churn patterns.
+1. Download the Power BI `.pbix` file.
+2. Open it using **Power BI Desktop**.
+3. Use the interactive slicers to filter the customer data.
+4. Explore the visualizations to understand customer churn patterns.
 
 ---
 
@@ -121,6 +117,6 @@ Dayananda Sagar University, Bengaluru
 
 ---
 
-## 📌 Project Type
+## 📌 Project Category
 
-**Data Analytics | Business Intelligence | Customer Churn Analysis**
+**Data Analytics | Business Intelligence | Customer Churn Analysis | Power BI**
